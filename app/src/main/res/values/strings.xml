@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuickQR</string>
+    <string name="title_generator">Generator</string>
+    <string name="title_scanner">Scanner</string>
+    <string name="enter_qr_text_hint">Enter text to generate QR code</string>
+    <string name="generate">Generate</string>
+    <string name="scan_prompt">Scan a QR code</string>
+    <string name="copy_text">Copy</string>
+    <string name="open_link">Open</string>
+    <string name="scan_qr_code">Scan</string>
+    <string name="search">Search</string>
+    <string name="share">share</string>
+</resources>
